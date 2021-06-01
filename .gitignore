@@ -1,6 +1,7 @@
 /node_modules
 /build
 /client/node_modules
+/chat-app-315500-40fa78375343
 
 .DS_Store
 
